@@ -1,0 +1,151 @@
+warehouse_id,warehouse_name,product_id,product_name,category,stock_on_hand,reorder_point,safety_stock,stock_status
+WH-JKT,Gudang Jakarta,PRD-001,Komponen Plastik Item 1,Komponen Plastik,1592,141,56,Overstock
+WH-JKT,Gudang Jakarta,PRD-002,Bahan Baku Kimia Item 2,Bahan Baku Kimia,382,111,44,Normal
+WH-JKT,Gudang Jakarta,PRD-003,Komponen Plastik Item 3,Komponen Plastik,1336,279,111,Normal
+WH-JKT,Gudang Jakarta,PRD-004,Logam Item 4,Logam,454,126,50,Normal
+WH-JKT,Gudang Jakarta,PRD-005,Elektronik Item 5,Elektronik,396,187,74,Normal
+WH-JKT,Gudang Jakarta,PRD-006,Logam Item 6,Logam,1721,112,44,Overstock
+WH-JKT,Gudang Jakarta,PRD-007,Bahan Baku Kimia Item 7,Bahan Baku Kimia,1487,249,99,Overstock
+WH-JKT,Gudang Jakarta,PRD-008,Elektronik Item 8,Elektronik,1652,251,100,Overstock
+WH-JKT,Gudang Jakarta,PRD-009,Komponen Plastik Item 9,Komponen Plastik,774,247,98,Normal
+WH-JKT,Gudang Jakarta,PRD-010,Bahan Baku Kimia Item 10,Bahan Baku Kimia,533,218,87,Normal
+WH-JKT,Gudang Jakarta,PRD-011,Elektronik Item 11,Elektronik,105,120,48,Low Stock
+WH-JKT,Gudang Jakarta,PRD-012,Tekstil Item 12,Tekstil,169,289,115,Low Stock
+WH-JKT,Gudang Jakarta,PRD-013,Elektronik Item 13,Elektronik,294,210,84,Normal
+WH-JKT,Gudang Jakarta,PRD-014,Kemasan Item 14,Kemasan,47,213,85,Low Stock
+WH-JKT,Gudang Jakarta,PRD-015,Komponen Plastik Item 15,Komponen Plastik,1186,271,108,Normal
+WH-JKT,Gudang Jakarta,PRD-016,Logam Item 16,Logam,211,78,31,Normal
+WH-JKT,Gudang Jakarta,PRD-017,Elektronik Item 17,Elektronik,940,287,114,Normal
+WH-JKT,Gudang Jakarta,PRD-018,Elektronik Item 18,Elektronik,1220,81,32,Overstock
+WH-JKT,Gudang Jakarta,PRD-019,Kemasan Item 19,Kemasan,219,86,34,Normal
+WH-JKT,Gudang Jakarta,PRD-020,Bahan Baku Kimia Item 20,Bahan Baku Kimia,578,117,46,Normal
+WH-JKT,Gudang Jakarta,PRD-021,Komponen Plastik Item 21,Komponen Plastik,1832,96,38,Overstock
+WH-JKT,Gudang Jakarta,PRD-022,Logam Item 22,Logam,190,69,27,Normal
+WH-JKT,Gudang Jakarta,PRD-023,Bahan Baku Kimia Item 23,Bahan Baku Kimia,1012,266,106,Normal
+WH-JKT,Gudang Jakarta,PRD-024,Komponen Plastik Item 24,Komponen Plastik,740,283,113,Normal
+WH-JKT,Gudang Jakarta,PRD-025,Komponen Plastik Item 25,Komponen Plastik,1716,103,41,Overstock
+WH-JKT,Gudang Jakarta,PRD-026,Bahan Baku Kimia Item 26,Bahan Baku Kimia,800,75,30,Overstock
+WH-JKT,Gudang Jakarta,PRD-027,Kemasan Item 27,Kemasan,1005,253,101,Normal
+WH-JKT,Gudang Jakarta,PRD-028,Logam Item 28,Logam,44,155,62,Low Stock
+WH-JKT,Gudang Jakarta,PRD-029,Bahan Baku Kimia Item 29,Bahan Baku Kimia,150,174,69,Low Stock
+WH-JKT,Gudang Jakarta,PRD-030,Komponen Plastik Item 30,Komponen Plastik,1964,210,84,Overstock
+WH-SBY,Gudang Surabaya,PRD-001,Komponen Plastik Item 1,Komponen Plastik,156,103,41,Normal
+WH-SBY,Gudang Surabaya,PRD-002,Bahan Baku Kimia Item 2,Bahan Baku Kimia,1407,157,62,Overstock
+WH-SBY,Gudang Surabaya,PRD-003,Komponen Plastik Item 3,Komponen Plastik,768,277,110,Normal
+WH-SBY,Gudang Surabaya,PRD-004,Logam Item 4,Logam,642,212,84,Normal
+WH-SBY,Gudang Surabaya,PRD-005,Elektronik Item 5,Elektronik,1860,165,66,Overstock
+WH-SBY,Gudang Surabaya,PRD-006,Logam Item 6,Logam,1655,91,36,Overstock
+WH-SBY,Gudang Surabaya,PRD-007,Bahan Baku Kimia Item 7,Bahan Baku Kimia,368,126,50,Normal
+WH-SBY,Gudang Surabaya,PRD-008,Elektronik Item 8,Elektronik,20,281,112,Low Stock
+WH-SBY,Gudang Surabaya,PRD-009,Komponen Plastik Item 9,Komponen Plastik,365,218,87,Normal
+WH-SBY,Gudang Surabaya,PRD-010,Bahan Baku Kimia Item 10,Bahan Baku Kimia,1161,211,84,Overstock
+WH-SBY,Gudang Surabaya,PRD-011,Elektronik Item 11,Elektronik,1242,268,107,Normal
+WH-SBY,Gudang Surabaya,PRD-012,Tekstil Item 12,Tekstil,64,80,32,Low Stock
+WH-SBY,Gudang Surabaya,PRD-013,Elektronik Item 13,Elektronik,1998,137,54,Overstock
+WH-SBY,Gudang Surabaya,PRD-014,Kemasan Item 14,Kemasan,710,173,69,Normal
+WH-SBY,Gudang Surabaya,PRD-015,Komponen Plastik Item 15,Komponen Plastik,1257,203,81,Overstock
+WH-SBY,Gudang Surabaya,PRD-016,Logam Item 16,Logam,1119,51,20,Overstock
+WH-SBY,Gudang Surabaya,PRD-017,Elektronik Item 17,Elektronik,324,183,73,Normal
+WH-SBY,Gudang Surabaya,PRD-018,Elektronik Item 18,Elektronik,1518,115,46,Overstock
+WH-SBY,Gudang Surabaya,PRD-019,Kemasan Item 19,Kemasan,1897,81,32,Overstock
+WH-SBY,Gudang Surabaya,PRD-020,Bahan Baku Kimia Item 20,Bahan Baku Kimia,394,205,82,Normal
+WH-SBY,Gudang Surabaya,PRD-021,Komponen Plastik Item 21,Komponen Plastik,60,187,74,Low Stock
+WH-SBY,Gudang Surabaya,PRD-022,Logam Item 22,Logam,47,182,72,Low Stock
+WH-SBY,Gudang Surabaya,PRD-023,Bahan Baku Kimia Item 23,Bahan Baku Kimia,1048,244,97,Normal
+WH-SBY,Gudang Surabaya,PRD-024,Komponen Plastik Item 24,Komponen Plastik,312,105,42,Normal
+WH-SBY,Gudang Surabaya,PRD-025,Komponen Plastik Item 25,Komponen Plastik,1775,143,57,Overstock
+WH-SBY,Gudang Surabaya,PRD-026,Bahan Baku Kimia Item 26,Bahan Baku Kimia,235,280,112,Low Stock
+WH-SBY,Gudang Surabaya,PRD-027,Kemasan Item 27,Kemasan,444,57,22,Overstock
+WH-SBY,Gudang Surabaya,PRD-028,Logam Item 28,Logam,670,85,34,Overstock
+WH-SBY,Gudang Surabaya,PRD-029,Bahan Baku Kimia Item 29,Bahan Baku Kimia,450,71,28,Overstock
+WH-SBY,Gudang Surabaya,PRD-030,Komponen Plastik Item 30,Komponen Plastik,1490,227,90,Overstock
+WH-MDN,Gudang Medan,PRD-001,Komponen Plastik Item 1,Komponen Plastik,1924,82,32,Overstock
+WH-MDN,Gudang Medan,PRD-002,Bahan Baku Kimia Item 2,Bahan Baku Kimia,548,120,48,Normal
+WH-MDN,Gudang Medan,PRD-003,Komponen Plastik Item 3,Komponen Plastik,986,101,40,Overstock
+WH-MDN,Gudang Medan,PRD-004,Logam Item 4,Logam,1952,73,29,Overstock
+WH-MDN,Gudang Medan,PRD-005,Elektronik Item 5,Elektronik,713,231,92,Normal
+WH-MDN,Gudang Medan,PRD-006,Logam Item 6,Logam,1129,216,86,Overstock
+WH-MDN,Gudang Medan,PRD-007,Bahan Baku Kimia Item 7,Bahan Baku Kimia,602,169,67,Normal
+WH-MDN,Gudang Medan,PRD-008,Elektronik Item 8,Elektronik,1526,257,102,Overstock
+WH-MDN,Gudang Medan,PRD-009,Komponen Plastik Item 9,Komponen Plastik,1015,161,64,Overstock
+WH-MDN,Gudang Medan,PRD-010,Bahan Baku Kimia Item 10,Bahan Baku Kimia,1049,292,116,Normal
+WH-MDN,Gudang Medan,PRD-011,Elektronik Item 11,Elektronik,819,286,114,Normal
+WH-MDN,Gudang Medan,PRD-012,Tekstil Item 12,Tekstil,395,114,45,Normal
+WH-MDN,Gudang Medan,PRD-013,Elektronik Item 13,Elektronik,354,100,40,Normal
+WH-MDN,Gudang Medan,PRD-014,Kemasan Item 14,Kemasan,1407,266,106,Overstock
+WH-MDN,Gudang Medan,PRD-015,Komponen Plastik Item 15,Komponen Plastik,1817,233,93,Overstock
+WH-MDN,Gudang Medan,PRD-016,Logam Item 16,Logam,575,296,118,Normal
+WH-MDN,Gudang Medan,PRD-017,Elektronik Item 17,Elektronik,804,76,30,Overstock
+WH-MDN,Gudang Medan,PRD-018,Elektronik Item 18,Elektronik,1195,253,101,Normal
+WH-MDN,Gudang Medan,PRD-019,Kemasan Item 19,Kemasan,1569,200,80,Overstock
+WH-MDN,Gudang Medan,PRD-020,Bahan Baku Kimia Item 20,Bahan Baku Kimia,638,92,36,Overstock
+WH-MDN,Gudang Medan,PRD-021,Komponen Plastik Item 21,Komponen Plastik,1626,102,40,Overstock
+WH-MDN,Gudang Medan,PRD-022,Logam Item 22,Logam,1953,234,93,Overstock
+WH-MDN,Gudang Medan,PRD-023,Bahan Baku Kimia Item 23,Bahan Baku Kimia,999,160,64,Overstock
+WH-MDN,Gudang Medan,PRD-024,Komponen Plastik Item 24,Komponen Plastik,1808,164,65,Overstock
+WH-MDN,Gudang Medan,PRD-025,Komponen Plastik Item 25,Komponen Plastik,867,202,80,Normal
+WH-MDN,Gudang Medan,PRD-026,Bahan Baku Kimia Item 26,Bahan Baku Kimia,1530,119,47,Overstock
+WH-MDN,Gudang Medan,PRD-027,Kemasan Item 27,Kemasan,1670,131,52,Overstock
+WH-MDN,Gudang Medan,PRD-028,Logam Item 28,Logam,1275,77,30,Overstock
+WH-MDN,Gudang Medan,PRD-029,Bahan Baku Kimia Item 29,Bahan Baku Kimia,1243,148,59,Overstock
+WH-MDN,Gudang Medan,PRD-030,Komponen Plastik Item 30,Komponen Plastik,879,101,40,Overstock
+WH-MKS,Gudang Makassar,PRD-001,Komponen Plastik Item 1,Komponen Plastik,1161,140,56,Overstock
+WH-MKS,Gudang Makassar,PRD-002,Bahan Baku Kimia Item 2,Bahan Baku Kimia,765,279,111,Normal
+WH-MKS,Gudang Makassar,PRD-003,Komponen Plastik Item 3,Komponen Plastik,1295,259,103,Normal
+WH-MKS,Gudang Makassar,PRD-004,Logam Item 4,Logam,131,165,66,Low Stock
+WH-MKS,Gudang Makassar,PRD-005,Elektronik Item 5,Elektronik,342,277,110,Normal
+WH-MKS,Gudang Makassar,PRD-006,Logam Item 6,Logam,69,295,118,Low Stock
+WH-MKS,Gudang Makassar,PRD-007,Bahan Baku Kimia Item 7,Bahan Baku Kimia,1047,114,45,Overstock
+WH-MKS,Gudang Makassar,PRD-008,Elektronik Item 8,Elektronik,1201,154,61,Overstock
+WH-MKS,Gudang Makassar,PRD-009,Komponen Plastik Item 9,Komponen Plastik,601,204,81,Normal
+WH-MKS,Gudang Makassar,PRD-010,Bahan Baku Kimia Item 10,Bahan Baku Kimia,1693,274,109,Overstock
+WH-MKS,Gudang Makassar,PRD-011,Elektronik Item 11,Elektronik,1321,293,117,Normal
+WH-MKS,Gudang Makassar,PRD-012,Tekstil Item 12,Tekstil,1976,185,74,Overstock
+WH-MKS,Gudang Makassar,PRD-013,Elektronik Item 13,Elektronik,721,151,60,Normal
+WH-MKS,Gudang Makassar,PRD-014,Kemasan Item 14,Kemasan,61,79,31,Low Stock
+WH-MKS,Gudang Makassar,PRD-015,Komponen Plastik Item 15,Komponen Plastik,368,257,102,Normal
+WH-MKS,Gudang Makassar,PRD-016,Logam Item 16,Logam,660,159,63,Normal
+WH-MKS,Gudang Makassar,PRD-017,Elektronik Item 17,Elektronik,1619,97,38,Overstock
+WH-MKS,Gudang Makassar,PRD-018,Elektronik Item 18,Elektronik,732,112,44,Overstock
+WH-MKS,Gudang Makassar,PRD-019,Kemasan Item 19,Kemasan,148,105,42,Normal
+WH-MKS,Gudang Makassar,PRD-020,Bahan Baku Kimia Item 20,Bahan Baku Kimia,1345,145,58,Overstock
+WH-MKS,Gudang Makassar,PRD-021,Komponen Plastik Item 21,Komponen Plastik,761,87,34,Overstock
+WH-MKS,Gudang Makassar,PRD-022,Logam Item 22,Logam,1596,130,52,Overstock
+WH-MKS,Gudang Makassar,PRD-023,Bahan Baku Kimia Item 23,Bahan Baku Kimia,250,52,20,Normal
+WH-MKS,Gudang Makassar,PRD-024,Komponen Plastik Item 24,Komponen Plastik,652,226,90,Normal
+WH-MKS,Gudang Makassar,PRD-025,Komponen Plastik Item 25,Komponen Plastik,22,233,93,Low Stock
+WH-MKS,Gudang Makassar,PRD-026,Bahan Baku Kimia Item 26,Bahan Baku Kimia,673,104,41,Overstock
+WH-MKS,Gudang Makassar,PRD-027,Kemasan Item 27,Kemasan,953,195,78,Normal
+WH-MKS,Gudang Makassar,PRD-028,Logam Item 28,Logam,1628,132,52,Overstock
+WH-MKS,Gudang Makassar,PRD-029,Bahan Baku Kimia Item 29,Bahan Baku Kimia,1840,109,43,Overstock
+WH-MKS,Gudang Makassar,PRD-030,Komponen Plastik Item 30,Komponen Plastik,1150,66,26,Overstock
+WH-SMG,Gudang Semarang,PRD-001,Komponen Plastik Item 1,Komponen Plastik,789,122,48,Overstock
+WH-SMG,Gudang Semarang,PRD-002,Bahan Baku Kimia Item 2,Bahan Baku Kimia,1232,104,41,Overstock
+WH-SMG,Gudang Semarang,PRD-003,Komponen Plastik Item 3,Komponen Plastik,1079,105,42,Overstock
+WH-SMG,Gudang Semarang,PRD-004,Logam Item 4,Logam,210,193,77,Normal
+WH-SMG,Gudang Semarang,PRD-005,Elektronik Item 5,Elektronik,569,233,93,Normal
+WH-SMG,Gudang Semarang,PRD-006,Logam Item 6,Logam,1244,292,116,Normal
+WH-SMG,Gudang Semarang,PRD-007,Bahan Baku Kimia Item 7,Bahan Baku Kimia,1809,256,102,Overstock
+WH-SMG,Gudang Semarang,PRD-008,Elektronik Item 8,Elektronik,1761,221,88,Overstock
+WH-SMG,Gudang Semarang,PRD-009,Komponen Plastik Item 9,Komponen Plastik,153,196,78,Low Stock
+WH-SMG,Gudang Semarang,PRD-010,Bahan Baku Kimia Item 10,Bahan Baku Kimia,1828,215,86,Overstock
+WH-SMG,Gudang Semarang,PRD-011,Elektronik Item 11,Elektronik,863,224,89,Normal
+WH-SMG,Gudang Semarang,PRD-012,Tekstil Item 12,Tekstil,1548,161,64,Overstock
+WH-SMG,Gudang Semarang,PRD-013,Elektronik Item 13,Elektronik,650,258,103,Normal
+WH-SMG,Gudang Semarang,PRD-014,Kemasan Item 14,Kemasan,655,100,40,Overstock
+WH-SMG,Gudang Semarang,PRD-015,Komponen Plastik Item 15,Komponen Plastik,403,62,24,Overstock
+WH-SMG,Gudang Semarang,PRD-016,Logam Item 16,Logam,1643,176,70,Overstock
+WH-SMG,Gudang Semarang,PRD-017,Elektronik Item 17,Elektronik,1021,61,24,Overstock
+WH-SMG,Gudang Semarang,PRD-018,Elektronik Item 18,Elektronik,562,157,62,Normal
+WH-SMG,Gudang Semarang,PRD-019,Kemasan Item 19,Kemasan,244,81,32,Normal
+WH-SMG,Gudang Semarang,PRD-020,Bahan Baku Kimia Item 20,Bahan Baku Kimia,927,93,37,Overstock
+WH-SMG,Gudang Semarang,PRD-021,Komponen Plastik Item 21,Komponen Plastik,1231,133,53,Overstock
+WH-SMG,Gudang Semarang,PRD-022,Logam Item 22,Logam,1210,148,59,Overstock
+WH-SMG,Gudang Semarang,PRD-023,Bahan Baku Kimia Item 23,Bahan Baku Kimia,484,197,78,Normal
+WH-SMG,Gudang Semarang,PRD-024,Komponen Plastik Item 24,Komponen Plastik,43,122,48,Low Stock
+WH-SMG,Gudang Semarang,PRD-025,Komponen Plastik Item 25,Komponen Plastik,36,214,85,Low Stock
+WH-SMG,Gudang Semarang,PRD-026,Bahan Baku Kimia Item 26,Bahan Baku Kimia,1604,269,107,Overstock
+WH-SMG,Gudang Semarang,PRD-027,Kemasan Item 27,Kemasan,1179,51,20,Overstock
+WH-SMG,Gudang Semarang,PRD-028,Logam Item 28,Logam,1867,168,67,Overstock
+WH-SMG,Gudang Semarang,PRD-029,Bahan Baku Kimia Item 29,Bahan Baku Kimia,582,83,33,Overstock
+WH-SMG,Gudang Semarang,PRD-030,Komponen Plastik Item 30,Komponen Plastik,1723,297,118,Overstock
